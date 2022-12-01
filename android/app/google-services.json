@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801280283455",
+    "project_id": "chatalvuelo",
+    "storage_bucket": "chatalvuelo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801280283455:android:f74cecb94728ecb4cdb98a",
+        "android_client_info": {
+          "package_name": "com.example.chatalvuelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801280283455-hitjn6qvfc4r7lllg8ovn29enook43b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3xkPQhbUcHkPDAJqCzN1M1tXPNswrjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801280283455-hitjn6qvfc4r7lllg8ovn29enook43b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
